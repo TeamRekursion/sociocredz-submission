@@ -1,4 +1,4 @@
-# Sociocredz Submission
+# SocioCredz Submission
 
 Links to GitHub Repositories
 - [Backend](https://github.com/TeamRekursion/sociocredz-backend)
