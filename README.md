@@ -29,6 +29,11 @@ Lastly, how can the user trust us that service is delivered to those in need? On
 <ul>
 <li> <h5><a href="https://www.figma.com/file/PqsI2E8BCmN7eWNX12j0ca/SocioCredz?node-id=16%3A130"> Figma Link
 </ul>
+	
+### Website Link
+<ul>
+<li><h5><a href="https://sociocredz.mayankkumar.tech/">Link to the website
+</ul>
 
 ### Tech Stack Used:
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
