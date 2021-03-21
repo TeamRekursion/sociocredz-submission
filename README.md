@@ -43,15 +43,29 @@ Lastly, how can the user trust us that service is delivered to those in need? On
 <ul>
 <li> <h5><a href="https://www.figma.com/file/PqsI2E8BCmN7eWNX12j0ca/SocioCredz?node-id=16%3A130"> Figma Link
 </ul>
-
+	
+### Website Link
+<ul>
+<li><h5><a href="https://sociocredz.mayankkumar.tech/">Link to the website
+</ul>
 
 ### Tech Stack Used:
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><br>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/PostGres-%234ea94b.svg?&style=for-the-badge&logo=postgreSQL&logoColor=white"/><br>
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /><br> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+
+### Designs
+
+<img src = "assets/sc1.jpeg" height = "400px">
+<img src = "assets/sc5.jpeg" height = "400px">
+<img src = "assets/sc3.png" height = "400px">
+<img src = "assets/sc2.png" height = "400px">
+<img src = "assets/sc1.png" height = "400px">
+<img src = "assets/sc4.png" height = "400px">
+<img src = "assets/signin.png" height = "400px">
 
 
 ## Team Members
