@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="assets/socioCredz.jpeg">
+	<img src="assets/socioCredz.jpeg" height = "200px">
     <h2 align="center">SocioCredz</h2>
     <h5 align = "center"> Have you ever wanted to do something for the social cause but lacked the time and the means to do it? <br>Don’t worry SocioCredz is here to help you. SocioCredz will help you to provide education, and food, etc<br> to the people in need without you even spending a single penny from your pocket!
 
@@ -17,7 +17,7 @@ Now you might wonder how will the food, books, etc actually be distributed to th
 
 Lastly, how can the user trust us that service is delivered to those in need? Once the service is<br> completed by a representative of the NGO, he/she will upload a video on the portal which will<br> be visible to the user on the application as well.
 
-### Designs
+### App
 
 <img src = "assets/sc1.jpeg" height = "400px">
 <img src = "assets/sc5.jpeg" height = "400px">
@@ -25,8 +25,11 @@ Lastly, how can the user trust us that service is delivered to those in need? On
 <img src = "assets/sc2.png" height = "400px">
 <img src = "assets/sc1.png" height = "400px">
 <img src = "assets/sc4.png" height = "400px">
-<img src = "assets/signin.png" height = "400px">
 
+### Website
+<img src = "assets/signin.png" height = "200px">
+<img src = "assets/sc6.png" height = "200px">
+<img src = "assets/dash.png" height = "200px">
 
 ### Links to the repositories
 <ul>
