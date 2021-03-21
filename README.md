@@ -17,8 +17,9 @@ Now you might wonder how will the food, books, etc actually be distributed to th
 
 Lastly, how can the user trust us that service is delivered to those in need? Once the service is<br> completed by a representative of the NGO, he/she will upload a video on the portal which will<br> be visible to the user on the application as well.
 
-### Tentative Designs
+### Designs
 
+<img src = "assets/sc1.jpeg" height = "400px">
 <img src = "assets/sc5.jpeg" height = "400px">
 <img src = "assets/sc3.png" height = "400px">
 <img src = "assets/sc2.png" height = "400px">
@@ -30,7 +31,8 @@ Lastly, how can the user trust us that service is delivered to those in need? On
 <ul>
 <li><h5><a href="https://github.com/TeamRekursion/sociocredz-frontend">Frontend Repository</a></h5>
 <li><h5><a href="https://github.com/TeamRekursion/sociocredz-backend">Backend Repository</a></h5>
-<li><h5><a href="https://github.com/TeamRekursion/sociocredz-app">Mobile Application Repository</a></h5>
+<li><h5><a href="https://github.com/TeamRekursion/sociocredz-app"> Client-Side App Repository</a></h5>
+<li><h5><a href="https://github.com/TeamRekursion/sociocredz-admin-app">Admin-Side App Repository</a></h5>
 </ul>
 
 ### Designs Link
