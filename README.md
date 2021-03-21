@@ -25,6 +25,7 @@ Lastly, how can the user trust us that service is delivered to those in need? On
 <img src = "assets/sc2.png" height = "400px">
 <img src = "assets/sc1.png" height = "400px">
 <img src = "assets/sc4.png" height = "400px">
+<img src = "assets/signin.png" height = "400px">
 
 
 ### Links to the repositories
