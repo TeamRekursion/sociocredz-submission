@@ -17,17 +17,6 @@ Now you might wonder how will the food, books, etc actually be distributed to th
 
 Lastly, how can the user trust us that service is delivered to those in need? Once the service is<br> completed by a representative of the NGO, he/she will upload a video on the portal which will<br> be visible to the user on the application as well.
 
-### Designs
-
-<img src = "assets/sc1.jpeg" height = "400px">
-<img src = "assets/sc5.jpeg" height = "400px">
-<img src = "assets/sc3.png" height = "400px">
-<img src = "assets/sc2.png" height = "400px">
-<img src = "assets/sc1.png" height = "400px">
-<img src = "assets/sc4.png" height = "400px">
-<img src = "assets/signin.png" height = "400px">
-
-
 ### Links to the repositories
 <ul>
 <li><h5><a href="https://github.com/TeamRekursion/sociocredz-frontend">Frontend Repository</a></h5>
@@ -40,6 +29,16 @@ Lastly, how can the user trust us that service is delivered to those in need? On
 <ul>
 <li> <h5><a href="https://www.figma.com/file/PqsI2E8BCmN7eWNX12j0ca/SocioCredz?node-id=16%3A130"> Figma Link
 </ul>
+
+### Designs
+
+<img src = "assets/sc1.jpeg" height = "400px">
+<img src = "assets/sc5.jpeg" height = "400px">
+<img src = "assets/sc3.png" height = "400px">
+<img src = "assets/sc2.png" height = "400px">
+<img src = "assets/sc1.png" height = "400px">
+<img src = "assets/sc4.png" height = "400px">
+<img src = "assets/signin.png" height = "400px">
 
 
 ### Tech Stack Used:
